@@ -1,0 +1,9 @@
+{
+  "name": "example",
+  "type": "CNAME",
+  "target": "kazedev.github.io",
+  "proxied": true,
+  "title": "Example Subdomain",
+  "description": "Template file untuk pendaftaran subdomain gratis *.zettai.my.id",
+  "creator": "KazeDevID"
+}
